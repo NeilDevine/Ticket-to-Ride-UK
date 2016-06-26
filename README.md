@@ -35,9 +35,13 @@ Steam Turbines- you score 2 extra routes for each ferry route that you claim aft
 Advanced technologies with a brief description:
 
 Thermocompressor- claim 2 routes this turn, then return this card. Note that when you purchase this card, it does not appear with your other technology cards, but it is still in effect.
+
 Water Tenders- when drawing train cards, you can decide to draw 3 blind cards instead of the regular 2.
+
 Risky Contracts- at the end of the game, score 20 points if you have the most completed tickets. If not, lose 20 points.
+
 Equalising Beam- at the end of the game, score 15 points if you have the longest route. If not, lose 15 points.
+
 Diesel Power- when claiming a route, you may use 1 less card than required. You must still play at least 1 card and cannot ignore a locomotive on a ferry route.
  
 

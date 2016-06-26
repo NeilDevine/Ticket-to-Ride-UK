@@ -1,4 +1,4 @@
-# Ticket-to-Ride-UK (Beatles Edition)
+# Ticket to Ride - UK (Beatles Edition)
 This project is a video game recreation of the Days of Wonder board game, Ticket to Ride - UK Edition, using Java and Swing GUIs
 
 PURPOSE OF PROJECT: To create a functional version of the Ticket to Ride - UK board game with UI

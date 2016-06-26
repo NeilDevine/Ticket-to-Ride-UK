@@ -4,6 +4,7 @@ This project is a video game recreation of the Days of Wonder board game, Ticket
 PURPOSE OF PROJECT: To create a functional version of the Ticket to Ride - UK board game with UI
 VERSION or DATE: 5/2/16
 HOW TO START THIS PROJECT: Run the main(String args[]) method in the TitleScreen class in bluej or other IDE
+PLEASE NOTE: The GitHub project page for this project does NOT contain the necessary files (pictures, sound, etc.) to run the full game. If you wish to request these files, please email nm31devi@siena.edu.
 
 
 USER INSTRUCTIONS:

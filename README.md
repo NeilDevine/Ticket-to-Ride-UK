@@ -2,8 +2,11 @@
 This project is a video game recreation of the Days of Wonder board game, Ticket to Ride - UK Edition, using Java and Swing GUIs
 
 PURPOSE OF PROJECT: To create a functional version of the Ticket to Ride - UK board game with UI
+
 VERSION or DATE: 5/2/16
+
 HOW TO START THIS PROJECT: Run the main(String args[]) method in the TitleScreen class in bluej or other IDE
+
 PLEASE NOTE: The GitHub project page for this project does NOT contain the necessary files (pictures, sound, etc.) to run the full game. If you wish to request these files, please email nm31devi@siena.edu.
 
 
@@ -40,15 +43,16 @@ Diesel Power- when claiming a route, you may use 1 less card than required. You 
 
 Then, they may 1. choose 2 train cards (or one locomotive), 2. choose at least one out of 3 destination cards, or 3. claim a route (Note: some of these options change depending on which technology cards the player has or does not have).
 
-1. Drawing train cards
+1) Drawing train cards
 	
 If a player chooses to draw one of the locomotives that are faced up, then they cannot draw any more train cards. However, they can choose to draw 2 non-locomotive cards that are faced up, draw 2 blind cards, or choose one non-locomotive card that is faced up and one blind card. If they are drawing 2 blind cards and the first happens to be a locomotive, the player is still allowed to draw another card.
 
-2. Choosing destination cards
+2) Choosing destination cards
 	
 If a player decides to take one or more destination cards for their turn, they must click on the pile of destination cards, where they will draw 3 cards. They are able to look at them all and decide which one(s) they want to keep. Once they take a destination card, they must claim the route between the 2 cities before the game is over, or else they will lose points. When a destination card has been completed, a green check appears over said card.
 
-3. Claiming a route
+3) Claiming a route
+
 As long as the player has the appropriate technology cards in their possession and they have the correct number of trains, they can claim a route. If the route is a ferry route, the number of locomotives they must use must be equivalent to the number of ferries needed. If there are 2 players, double routes can only be claimed once. If there are 3 or 4 players, two different players may claim said route. If a player decides to claim a route, they must click on that route and select the train cards they wish to use to claim the route. Train cars are then placed on the route automatically, and the number of train cars in the player’s possession is decreased by the length of the claimed route. Based on the length of the route (and current technology cards in possession), the player’s score is increased.
 	
 Scoring:
